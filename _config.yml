@@ -18,16 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Gastown Residents Association
+email: gastown.residents@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
+  “We envision a positive future based on a safe and vibrant community where all residents feel welcome, respected, and supported.”
+
+  Our vision is to create a safe and vibrant community where all residents feel welcome, respected, and supported. We will work to achieve this vision by:
+  - Advocating for policies and programs that promote safety and well-being
+  - Building relationships between residents, neighbouring community organizations and BIAs
+  - Providing opportunities for residents, owners and ratepayers to get involved and make a positive impact.
+baseurl: "/gastownresidents.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: gastownresidents
+github_username:  GastownResidents
 
 # Build settings
 theme: minima
