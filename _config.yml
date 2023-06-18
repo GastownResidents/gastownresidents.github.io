@@ -22,12 +22,7 @@ title: Gastown Residents Association
 email: gastown.residents@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   “We envision a positive future based on a safe and vibrant community where all residents feel welcome, respected, and supported.”
-
-  Our vision is to create a safe and vibrant community where all residents feel welcome, respected, and supported. We will work to achieve this vision by:
-  - Advocating for policies and programs that promote safety and well-being
-  - Building relationships between residents, neighbouring community organizations and BIAs
-  - Providing opportunities for residents, owners and ratepayers to get involved and make a positive impact.
-baseurl: "/gastownresidents.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gastownresidents
 github_username:  GastownResidents
